@@ -1,0 +1,528 @@
+{
+  "company": {
+    "name": "Tiny Prism Labs",
+    "tagline": "Intelligence at the edge, Innovation at the core",
+    "logo": "https://avatars.githubusercontent.com/u/97327290?s=200&v=4"
+  },
+  "contact": {
+    "email": "ajkj@tinyprismlabs.com",
+    "emailIcon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/mail.svg"
+  },
+  "offeringsSection": {
+    "title": "Our Offerings",
+    "subtitle": "We specialize in delivering cutting-edge solutions across three core domains.",
+    "items": [
+      {
+        "title": "Embedded Systems",
+        "description": "Developing custom hardware and firmware to power intelligent devices from the ground up."
+      },
+      {
+        "title": "AI/ML",
+        "description": "Building and deploying optimized machine learning models for cloud and on-device applications."
+      },
+      {
+        "title": "Edge Computing",
+        "description": "Bringing real-time AI capabilities directly to your devices for instant, secure, and offline operation."
+      }
+    ]
+  },
+  "tableOfContents": {
+    "title": "Table of Contents",
+    "items": [
+      {
+        "text": "Our Offerings",
+        "target": "offerings"
+      },
+      {
+        "text": "Our Services",
+        "target": "services"
+      },
+      {
+        "text": "Embedded Systems",
+        "target": "services",
+        "indent": true
+      },
+      {
+        "text": "AI / ML",
+        "target": "services",
+        "indent": true
+      },
+      {
+        "text": "Edge Computing",
+        "target": "services",
+        "indent": true
+      },
+      {
+        "text": "Case Studies",
+        "target": "caseStudies"
+      },
+      {
+        "text": "Medical SoC",
+        "target": "caseStudies",
+        "indent": true
+      },
+      {
+        "text": "Water Management AI",
+        "target": "caseStudies",
+        "indent": true
+      },
+      {
+        "text": "Traffic Analytics",
+        "target": "caseStudies",
+        "indent": true
+      },
+      {
+        "text": "Face Recognition",
+        "target": "caseStudies",
+        "indent": true
+      },
+      {
+        "text": "Predictive Maintenance",
+        "target": "caseStudies",
+        "indent": true
+      }
+    ]
+  },
+  "services": [
+    {
+      "title": "Embedded Systems",
+      "subtitle": "Custom hardware and firmware development.",
+      "points": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/cpu.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Custom Hardware Design: Expertise in working with Low Power MCUs like nRF52, ESP32C6, STM32U5, STM32WBA."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/layers.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Schematics and PCB: Designing for custom product development."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/code-2.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Advanced Firmware: Firmware development for specialized components like PMIC-UCD3138."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/settings.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Component Customization: From sensor to processor selection based on the use case."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/shield-check.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Rigorous Testing: Extensive hardware testing with industry standards for complete production deployment."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/wifi.svg",
+          "iconColor": "text-cyan-500",
+          "text": "RF & IoT Connectivity: Expertise in RF technologies such as Wi‑Fi 6 and BLE 5.0 for IoT connected devices."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/cpu.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Platform Agnostic: Proficiency in adapting to any chip platform according to the requirement."
+        }
+      ]
+    },
+    {
+      "title": "AI/ML",
+      "subtitle": "Model design, optimization, and deployment for your workflows.",
+      "points": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/scan-eye.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Advanced Computer Vision: Proficient in building advanced object detection algorithms and deep learning models such as SSD and YOLO."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/cpu.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Optimized Model Deployment: Extensive experience with TinyML, TensorRT, and OpenVINO."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/server.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Production-Ready Models: Deploying on cloud and on edge devices like NVIDIA AGX/IGX and Jetson Nano."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/activity.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Multi‑Modal Sensor Expertise: Working with accelerometers, temperature sensors, microphones and more."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/activity.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Advanced Feature Extraction: Utilizing Spectral Analysis (FFT), Spectrograms, and statistical features."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/cpu.svg",
+          "iconColor": "text-cyan-500",
+          "text": "ML for MCUs: Optimizing and deploying models on resource‑constrained microcontrollers for edge intelligence."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/database.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Data Ingestion & Processing: Handling structured and semi‑structured data using cloud technologies."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/cloud.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Cloud Deployment: Dockerizing applications and deploying them on GCP and Azure."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/square-stack.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Big Data & ETL: Leveraging PySpark and Apache Airflow for robust data pipelines."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/git-branch.svg",
+          "iconColor": "text-cyan-500",
+          "text": "MLOps Pipelines: Building model pipelines using Kubeflow, Kubernetes, and KServe."
+        }
+      ]
+    },
+    {
+      "title": "Edge Computing",
+      "subtitle": "AI/ML on IoT devices for real-time, on-device decisions.",
+      "points": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/square-stack.svg",
+          "iconColor": "text-cyan-500",
+          "text": "End‑to‑End Embedded ML Pipelines: Expertise in the full lifecycle from sensor data collection and preprocessing to on‑device predictions."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/shield.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Core Focus: Our approach emphasizes security, hardware compatibility, and cost‑effectiveness in every solution."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/battery.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Low‑Power Specialization: We specialize in deploying optimized ML models on energy‑efficient, low‑power processors such as STM32U5 and nRF52840."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/cloud-off.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Fully Offline Operation: Our solutions ensure reliable performance with no dependency on internet connectivity."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/cpu.svg",
+          "iconColor": "text-cyan-500",
+          "text": "Advanced Edge Platforms: We extend our capability to advanced systems like the NVIDIA Jetson Nano, enabling scalable and secure AI solutions across a wide range of applications."
+        }
+      ]
+    }
+  ],
+  "caseStudies": [
+    {
+      "color": "green",
+      "tag": "Case Study // Industrial IoT & Edge AI",
+      "title": "Predictive Maintenance for Industrial Machinery",
+      "challenge": "Unexpected machinery failures lead to costly downtime and reactive, inefficient maintenance cycles. Industrial operators required a proactive solution to anticipate equipment wear and tear by analyzing complex sensor data in real time.",
+      "solution": "We engineered a compact, rugged hardware device that mounts directly onto machinery. This device runs a highly efficient CNN and anomaly detection model on a low‑power microcontroller to process vibration and temperature data at the source, transmitting inferences wirelessly via BLE.",
+      "outcomes": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Reduced Downtime: Proactive alerts enable maintenance before critical failure occurs."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "On‑Device Intelligence: Real‑time processing on a low‑power MCU eliminates cloud dependency."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Seamless Integration: Dashboard built on Grafana for easy adoption and integration."
+        }
+      ],
+      "stack": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/hard-drive.svg",
+          "text": "Hardware: nRF52/54, STM32WBA"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/bot.svg",
+          "text": "AI & Firmware: C, TensorFlow Lite, CMSIS‑DSP"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/wifi.svg",
+          "text": "Connectivity & Viz: BLE, Grafana"
+        }
+      ]
+    },
+    {
+      "color": "cyan",
+      "tag": "Case Study // Embedded Systems",
+      "title": "Accelerating Market Adoption for a Next‑Generation testing",
+      "challenge": "A new, ultra‑low‑power SoC for medical wearables faced a significant market adoption barrier. ",
+      "solution": "Tiny Prism Labs engineered an end‑to‑end development ecosystem, creating a market‑ready reference wearable, a sophisticated on‑chip signal processing pipeline, a flexible firmware SDK, and a comprehensive test suite.",
+      "outcomes": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Reference Design: A complete hardware wearable serving as a viable product blueprint."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Signal Processing: On‑chip pipeline ensuring clinical‑grade data quality."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Edge AI: Power‑optimized model with 98% accuracy for real‑time analysis."
+        }
+      ],
+      "stack": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/cpu.svg",
+          "text": "Firmware: C, Zephyr RTOS"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/activity.svg",
+          "text": "Signal Processing: CMSIS‑DSP"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Validation Suite: Python, Streamlit"
+        }
+      ]
+    },
+    {
+      "color": "purple",
+      "tag": "Case Study // AI",
+      "title": "Intelligent Traffic Analytics at the Edge",
+      "challenge": "Municipalities and private estates often rely on cloud‑based analytics for traffic management, incurring high costs and latency. A more efficient, robust, and affordable solution was needed to provide real‑time vehicle analytics directly in the field.",
+      "solution": "We engineered a powerful, self‑contained edge device on the NVIDIA Jetson platform. The system performs all computations locally, using a sophisticated AI pipeline for real‑time vehicle detection, tracking, and re‑identification across multiple cameras.",
+      "outcomes": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Instant Response: On‑device processing provides real‑time analytics with zero cloud latency."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Cost‑Effective: Significantly lower total cost of ownership compared to cloud‑based subscriptions."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Multi‑Camera Tracking: Re‑identifies vehicles across different cameras for comprehensive journey analysis."
+        }
+      ],
+      "stack": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/cpu.svg",
+          "text": "Edge Platform: NVIDIA Jetson Nano"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/scan-eye.svg",
+          "text": "AI & Vision: Python, PyTorch, TensorRT"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/layout-dashboard.svg",
+          "text": "Analytics: Custom Real‑time Application"
+        }
+      ]
+    },
+    {
+      "color": "teal",
+      "tag": "Case Study // AI",
+      "title": "Predictive AI for Sustainable Water Management",
+      "challenge": "A water treatment organization was operating reactively, relying on historical data and manual analysis for resource planning. This approach lacked the ability to anticipate sudden changes in water flow, leading to inefficiencies.",
+      "solution": "We developed a cloud‑native AI forecasting engine on Microsoft Azure. The solution leverages advanced time‑series models to predict water flow with high accuracy and delivers forecasts via a simple API for seamless integration.",
+      "outcomes": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Predictive Forecasting: Enabled proactive, data‑driven decision‑making for field teams."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Adaptive AI: A continuous learning loop keeps the model accurate and relevant."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Seamless Integration: API‑first delivery required zero changes to the client's existing dashboards."
+        }
+      ],
+      "stack": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/bot.svg",
+          "text": "AI & ML: Python, TensorFlow, LSTM, SARIMAX"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/cloud.svg",
+          "text": "Cloud Platform: Microsoft Azure"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/server.svg",
+          "text": "Deployment: REST API"
+        }
+      ]
+    },
+    {
+      "color": "orange",
+      "tag": "Case Study // AI",
+      "title": "Real‑time Face Recognition for Secure Environments",
+      "challenge": "Standard security solutions often depend on a single deployment model, introducing latency or high costs. A flexible, camera‑agnostic solution was needed that could perform fast, reliable recognition locally, or scale with a cloud or on‑premises backend.",
+      "solution": "We engineered a highly portable solution deployable on compact edge devices, private servers, or the cloud. The system runs a proprietary, optimized facial recognition engine achieving 90% accuracy and integrates with any IP camera via RTSP streams.",
+      "outcomes": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Flexible Deployment: Portable design runs on edge, cloud, or on‑premises servers."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "High‑Accuracy AI: Proprietary model delivers 90% accuracy in real time."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Camera Agnostic: Integrates effortlessly with existing IP cameras via RTSP streams."
+        }
+      ],
+      "stack": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/cpu.svg",
+          "text": "Edge Platform: NVIDIA Jetson, Raspberry Pi 5"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/scan-eye.svg",
+          "text": "AI & Vision: Python, OpenCV, Proprietary Engine"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/layout-dashboard.svg",
+          "text": "Dashboard: Custom Real‑time Application"
+        }
+      ]
+    },
+    {
+      "tag": "CASE STUDY // Embedded System",
+      "title": "Power Management for Mission-Critical Systems",
+      "color": "cyan",
+      "challenge": "Telecom stations and data centers demand uninterrupted power supply without compromising on safety. Extreme conditions such as high power, high current, and high temperatures can lead to failures if not managed properly.\nTo ensure reliability, an application firmware must be designed for a PMIC (Power Management Integrated Circuit) that adheres to PMBus standards and meets product specifications.",
+      "solution": "A PMIC-based module engineered to:\n1. Isolate the power stage for safety.\n2. Provide protection, communication, and monitoring features.\n3. Fully comply with PMBus standards for control and configuration.",
+      "outcomes": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/hard-drive.svg",
+          "text": "Reliable power management."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/database.svg",
+          "text": "Protection features integrated for extreme operating conditions."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/activity.svg",
+          "text": "PMBus command set implemented for configurability and real-time monitoring."
+        }
+      ],
+      "stack": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/code-2.svg",
+          "text": "Embedded C"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/server.svg",
+          "text": "PMIC (UCD3138)"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/layers.svg",
+          "text": "Bare-metal firmware flashed to PMIC"
+        }
+      ]
+    },
+    {
+      "tag": "CASE STUDY // AI",
+      "title": "Production-Ready Real-Time Bolt Detection for Industry Use",
+      "color": "cyan",
+      "challenge": "Manufacturing units produce lakhs of bolts in a single shift. Manually identifying defects or missing bolts during high‑speed conveyor belt operations is impractical and error‑prone. Quality control teams needed a real‑time, automated solution to ensure best accuracy without slowing down production.",
+      "solution": "We developed an edge AI solution that integrates directly with conveyor systems, with flexibility to scale for on-premise or cloud deployment as required by industry workflows. The system leverages a custom object detection algorithm optimized for embedded hardware, enabling continuous inspection of every bolt in real time. It also supports connecting to multiple CCTV cameras for simultaneous monitoring across different production lines. The system flags missing, misplaced, or defective bolts instantly and relays alerts to operators.",
+      "outcomes": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Automated detection ensures consistent quality across lakhs of bolts."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "AI runs directly on-device at the edge, reducing latency"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Supports multiple CCTV streams for monitoring several conveyor belts simultaneously."
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Reduces manual inspection time and minimizes production slowdowns."
+        }
+      ],
+      "stack": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/layers.svg",
+          "text": "Hardware: NVIDIA Jetson Nano / STM32 series for edge deployment"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "AI Models: Custom object detection algorithms"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/hard-drive.svg",
+          "text": "Firmware & Software: Python, C++, OpenCV, TensorRT"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/server.svg",
+          "text": "Connectivity & Viz: Multi-camera input, on-premise server integration"
+        }
+      ]
+    },
+    {
+      "tag": "Case Study // AI",
+      "title": "Production-Ready Real-Time Helmet & Vest Detection for Workplace Safety",
+      "color": "blue",
+      "challenge": "Ensuring employee safety in industrial environments is a critical responsibility. Traditional manual monitoring through supervisors or periodic checks often fails to detect violations like missing helmets or vests, especially when managing large teams across multiple sites. Companies needed a reliable, real-time, automated solution that ensures compliance without adding overhead to operations.",
+      "solution": "We engineered an AI-driven multi-model system capable of detecting helmets and vests simultaneously through multiple CCTV cameras across the workplace. By combining person detection with protective gear identification, the system automatically classifies each individual as safe (helmet and vest detected) or unsafe (missing safety equipment). The deployment is designed for on-premise and cloud environments, ensuring flexibility to integrate with existing IT infrastructure and security policies.",
+      "outcomes": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Real-time alerts"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Scalable monitoring"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/check-circle.svg",
+          "text": "Risk reduction & Actionable analytics"
+        }
+      ],
+      "stack": [
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/server.svg",
+          "text": "Hardware: Servers / Cloud instances"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/bot.svg",
+          "text": "AI Models: Custom multi-model detection"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/layout-dashboard.svg",
+          "text": "Connectivity & Viz: Multi-camera, Grafana"
+        },
+        {
+          "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/code-2.svg",
+          "text": "Software: Python, C++, OpenCV, TensorRT"
+        }
+      ]
+    }
+  ],
+  "thankYou": {
+    "title": "Thank You",
+    "subtitle": "We look forward to discussing how our expertise can help bring your next project to life.",
+    "contact": [
+      {
+        "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/mail.svg",
+        "text": "ajkj@tinyprismlabs.com"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/phone.svg",
+        "text": "+91 8123577974"
+      },
+      {
+        "icon": "https://cdn.jsdelivr.net/npm/lucide-static/icons/globe.svg",
+        "text": "tinyprismlabs.com"
+      }
+    ]
+  }
+}
